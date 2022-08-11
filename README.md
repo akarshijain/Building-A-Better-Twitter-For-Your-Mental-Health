@@ -5,7 +5,7 @@ Social media has become an integral part of our day-to-day life. People use it n
 
 ## Methodology
 
-Link to dataset: [Efficient detection of fake Twitter followers](http://mib.projects.iit.cnr.it/dataset.html)
+Link to dataset: [MIB Twitter Dataset](http://mib.projects.iit.cnr.it/dataset.html)
 
 1. Data is collected from MIB Twitter Dataset.
 2. Cleaning the data to remove unwanted data, missing values, duplicate values, data type conversion, etc. 
